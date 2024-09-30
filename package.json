@@ -60,7 +60,7 @@
     "readline-transform": "1.0.0",
     "semver": "^7.0.0",
     "tslib": "^2.0.0",
-    "yargs": "^17.0.0"
+    "yargs": "^17.7.2"
   },
   "devDependencies": {
     "@types/chai": "^4.3.4",
