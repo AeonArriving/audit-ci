@@ -52,7 +52,7 @@
     "node": ">=12.9.0"
   },
   "dependencies": {
-    "cross-spawn": "^7.0.3",
+    "cross-spawn": "^7.0.5",
     "escape-string-regexp": "^4.0.0",
     "event-stream": "4.0.1",
     "jju": "^1.4.0",
